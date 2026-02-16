@@ -1,4 +1,4 @@
-# 📡 Circularly Polarized Patch Array Antenna
+#  Circularly Polarized Patch Array Antenna
 
 **Design and Performance Evaluation of a Circularly Polarised Microstrip Patch Array Antenna**
 
@@ -8,7 +8,7 @@ Academic Year: 2025–2026
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project presents the **design, simulation, and performance analysis of a Circularly Polarized (CP) Microstrip Patch Array Antenna** for modern wireless and satellite communication systems.
 
@@ -22,7 +22,7 @@ The antenna is designed using EM simulation tools and evaluated using parameters
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Design a circularly polarized microstrip patch element
 * Develop a **2×2 antenna array** for improved gain
@@ -33,7 +33,7 @@ The antenna is designed using EM simulation tools and evaluated using parameters
 
 ---
 
-## 🧠 Basic Concept
+##  Basic Concept
 
 A single patch antenna produces **linear polarization**.
 Circular polarization is achieved by exciting two orthogonal modes with equal amplitude and a 90° phase difference.
@@ -47,7 +47,7 @@ An antenna array improves:
 
 ---
 
-## 🏗️ Methodology
+##  Methodology
 
 ### 1. Unit Element Design
 
@@ -76,7 +76,7 @@ An antenna array improves:
 
 ---
 
-## 🧪 Tools Used
+##  Tools Used
 
 * **HFSS / CST Studio / Ansys** – Electromagnetic simulation
 * **MATLAB (optional analysis)**
@@ -84,7 +84,7 @@ An antenna array improves:
 
 ---
 
-## 📊 Results
+## Results
 
 | Parameter   | Single Element | 2×2 Array |
 | ----------- | -------------- | --------- |
@@ -104,7 +104,7 @@ An antenna array improves:
 
 ---
 
-## 📡 Applications
+##  Applications
 
 * Satellite Communication
 * GPS Systems
@@ -115,7 +115,7 @@ An antenna array improves:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 * Fabrication and VNA measurement validation
 * 4×4 array design for higher gain
@@ -126,35 +126,10 @@ An antenna array improves:
 
 ---
 
-## 👨‍💻 Authors
-
-* **A Sai Vardhan**
-* **M Srinivas**
-* **V Srivathsa**
-
-Department of Electronics & Communication Engineering
-Vasavi College of Engineering, Hyderabad
-
----
-
-## 📜 References
+##  References
 
 1. T-H Lee et al., Circularly Polarized 4×4 Array Antenna, Electronics, 2024
 2. H. Wang et al., Wideband CP Crossed-Dipole Antenna, IEEE Access, 2023
 3. R. Xu et al., Ultra-Wideband CP Antenna, IEEE TAP, 2022
 4. Z. Yang et al., Broadband CP Antenna, IEEE Access, 2020
 5. J-W Baik et al., Printed Crossed Dipole CP Antenna, 2008
-
----
-
-## ⭐ If you like this project
-
-Give the repository a star and feel free to fork for learning and research purposes!
-
----
-
-If you want, I can also generate:
-
-* `.gitignore`
-* folder structure
-* or a professional repo description + tags for visibility on GitHub.
